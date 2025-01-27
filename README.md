@@ -1,1 +1,1 @@
-# spring_web_2025
+# spring-web-2025
